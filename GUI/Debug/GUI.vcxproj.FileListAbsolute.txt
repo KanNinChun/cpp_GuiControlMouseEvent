@@ -1,0 +1,3 @@
+C:\Users\kkan2\source\repos\GUI\GUI\Debug\GUI.vcxproj.AssemblyReference.cache
+C:\Users\kkan2\source\repos\GUI\GUI\Debug\GUI.MyForm.resources
+C:\Users\kkan2\source\repos\GUI\GUI\Debug\GUI.vcxproj.GenerateResource.cache

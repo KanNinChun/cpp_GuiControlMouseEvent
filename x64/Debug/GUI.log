@@ -1,0 +1,6 @@
+﻿  MyForm.cpp
+C:\Users\kkan2\source\repos\GUII\GUII\GUI\GUI\MyForm.cpp(8,1): warning C4829: 函式 main 的參數可能不正確。請考慮 'int main(Platform::Array<Platform::String^>^ argv)'
+  .NETFramework,Version=v4.8.AssemblyAttributes.cpp
+  正在產生程式碼...
+  MyForm.obj : 發現 MSIL 模組。MSIL 的累加連結已停用。正在執行完整連結
+  GUI.vcxproj -> C:\Users\kkan2\source\repos\GUII\GUII\GUI\x64\Debug\GUI.exe
